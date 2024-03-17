@@ -1,0 +1,72 @@
+body{
+    background-color:  #8CC461;
+    
+}
+#star{
+    
+top: 86px;
+left: 388px;
+margin-left: 490px;
+margin-top: 20px;
+
+}
+#cup{
+    margin-left: 650px;
+}
+#text1{
+    font-family: 'Roboto';
+font-size: 91px;
+font-weight: 600;
+line-height: 107px;
+letter-spacing: 0.1em;
+text-align: center;
+color: #ffffff;
+}
+#text2{
+    font-family: 'Roboto';
+font-size: 41px;
+font-weight: 600;
+line-height: 48px;
+letter-spacing: 0.1em;
+text-align: center;
+color: #ffffff;
+}
+#play{
+    width: 174px;
+    height: 44px;
+    top: 639px;
+    left: 581px;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 18px;
+    letter-spacing: 0.1em;
+    text-align: center;
+    color: rgb(107, 107, 107);
+    align-items: center;
+    border-radius: 9px;
+    border-color: rgb(255, 255, 255);
+    background: rgb(255, 255, 255);
+    margin-left: 680px;
+    margin-top: 10px;
+}
+#rule{
+    width: 119px;
+    height: 40px;
+    border: 2px solid #FFFFFF;
+    border-radius: 10px;
+    color: #FFFFFF;
+    background: #8CC461;
+    font-family: 'Roboto';
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 25px;
+    letter-spacing: 0.1em;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-right: 5px;
+    margin-left: 1350px;
+    position: absolute;
+    top: 700px;
+}
+

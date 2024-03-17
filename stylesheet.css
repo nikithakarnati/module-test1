@@ -1,0 +1,270 @@
+body{
+    background-color:  #8CC461;
+    
+}
+#tbl{
+    width: 800px;
+height: 158px;
+margin-top: 20px;
+margin-left: 300px;
+border-radius: 13px;
+background: #8CC461;
+border: 2px solid #FFFFFF;
+padding-top: 20px;
+padding-bottom: 20px;
+
+}
+#box1{
+    width:500px;
+    height:120px;
+    font-family: 'Roboto';
+font-size: 40px;
+font-weight: 600;
+line-height: 47px;
+letter-spacing: 0.1em;
+text-align: left;
+color: #FFFFFF;
+padding-left: 10px;
+
+}
+#box2{
+    width: 120px;
+height: 120px;
+margin-top: 50px;
+margin-left: 50px;
+margin-bottom: 50px;
+margin-right: 20px;
+border-radius: 9px;
+background: #FFFFFF;
+padding-left: 10px;
+
+}
+#box3{
+    width: 120px;
+height: 120px;
+margin-top: 50px;
+margin-left: 50px;
+margin-bottom: 50px;
+margin-right: 20px;
+border-radius: 9px;
+background: #FFFFFF;
+padding-right: 10px;
+}
+#compscore{
+    font-family: 'Roboto';
+font-size: 17px;
+font-weight: 600;
+line-height: 20px;
+letter-spacing: 0.1em;
+text-align: left;
+color: #656565;
+padding-top: 5px;
+
+}
+#userscore{
+    font-family: 'Roboto';
+font-size: 17px;
+font-weight: 600;
+line-height: 20px;
+letter-spacing: 0.1em;
+text-align: left;
+color: #656565;
+padding-top: 5px;
+
+}
+#txt2{
+    font-family: 'Roboto';
+font-size: 68px;
+font-weight: 700;
+line-height: 80px;
+letter-spacing: 0em;
+text-align: center;
+color: #252525;
+
+}
+#txt3{
+    font-family: 'Roboto';
+font-size: 68px;
+font-weight: 700;
+line-height: 80px;
+letter-spacing: 0em;
+text-align: center;
+color: #252525;
+
+}
+#options{
+    margin-left: 35%;
+}
+#circle1{
+    height: 100px;
+  width: 100px;
+  border: 16px solid #0074B6;
+  border-radius: 50%;
+  display: inline-block;
+  align-items: center;
+  position:relative;
+    margin-top: 150px;
+    margin-bottom: 200px;
+    bottom: 50px;
+}
+.circle2{
+   top:0%;
+   left: 0%;
+    width:100%;
+    height:100%;
+   
+  background-color: #ffffff;
+  border-radius: 50%;
+  display: inline-block;
+  position: relative;
+}
+#crcl{
+    margin-bottom: 100px;
+    height: 100px;
+}
+#circle3{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    display: inline-block;
+    align-items: center;
+    position: relative;
+    border: 16px solid #FFA943;
+    margin-left: 400px;
+    margin-top: 0px;
+    margin-bottom: 250px;
+    bottom: 100px;
+    top: 50px;
+    left: -250;
+}
+#circle4{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    display: inline-block;
+    align-items: center;
+    position: relative;
+    border: 16px solid #BD00FF;
+    left: -220;
+    bottom: 300px;
+    margin-top: 70px;
+    top: -175;
+    right: 0px;
+    margin-right: 0px;
+}
+
+
+.image{
+    align-items: center;
+    margin: 20px;
+}
+#line1{
+    /* border: solid #000000A3; */
+    position: relative;
+    display: flex;
+    height: 20px;
+    background-color: #000000A3;
+    width: 220px;
+    left: 640px;
+    top: 430px;
+
+
+}
+#line2{
+    position: relative;
+    display: flex;
+    height: 20px;
+    background-color: #000000A3;
+    width: 220px;
+    transform: rotate(55deg);
+    top: 550px;
+    left: 575px;
+}
+#line3{
+    position: relative;
+    display: flex;
+    height: 20px;
+    background-color: #000000A3;
+    width: 220px;
+    transform: rotate(130deg);
+    left: 720px;
+    top: 520px;
+}
+#rule{
+    width: 119px;
+    height: 40px;
+    border: 2px solid #FFFFFF;
+    border-radius: 10px;
+    color: #FFFFFF;
+    background: #8CC461;
+    font-family: 'Roboto';
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 25px;
+    letter-spacing: 0.1em;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-right: 5px;
+    margin-left: 1350px;
+    position: absolute;
+    top: 680px;
+}
+.btn{
+    border: none;
+    border-radius: 50%;
+    margin-left: -5;
+}
+#tbl1{
+    width: 278px;
+height: 325px;
+top: 330px;
+left: 964px;
+border-radius: 13px;   
+border: 7px;
+border: 7px solid #FFFFFF;
+background: #004429;
+
+}
+#gr{
+    font-family: 'Roboto';
+    font-size: 29px;
+    font-weight: 500;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 10px;
+}
+#gr1{
+    font-family: Roboto;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+color: #FFFFFF;
+}
+#cross{
+border-width: 5px;
+background: #FF0000;
+border-radius: 50%;
+border: 4px solid #FFFFFF;
+}
+.gr2{
+    padding-top: 10px;
+}
+::marker{
+    color: #FFD600;
+    
+}
+#rule1{
+    width: 400px;
+    margin-left: 1150px;
+    margin-top: -600;
+}
+#cross1{
+    width: 70px;
+    margin-left: 250px;
+    margin-top: -340;
+}
